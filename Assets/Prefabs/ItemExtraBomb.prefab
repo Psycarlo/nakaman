@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6503078178446183202}
   - component: {fileID: 640918210462815342}
   - component: {fileID: 4212341165533656923}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: ItemExtraBomb
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -143,3 +143,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d1d32534a69d89048bb06ce023c26687, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  type: 0
